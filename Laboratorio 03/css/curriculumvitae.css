@@ -1,0 +1,75 @@
+body {
+  background-color: antiquewhite;
+  max-width: 100%;
+}
+
+h1 {
+  background-color: darkturquoise;
+}
+
+header h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+}
+
+header .contenedor .texto {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+  background-color: skyblue;
+}
+
+header .contenedor .texto .nombre {
+  font-size: 80px;
+  text-align: justify;
+}
+
+header .contenedor .texto .apellido {
+  font-size: 40px;
+  text-align: justify;
+}
+
+header .contenedor .texto .cualidades {
+  font-size: 20px;
+  justify-content: center;
+  align-content: center;
+  text-align: justify;
+}
+
+header .mifoto {
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+  border: 4px solid;
+}
+
+header .correoelectronico {
+  margin-top: 10px;
+}
+
+header .contactame .telefono {
+  width: 25px;
+  height: 25px;
+}
+
+header .contactame .ubicación {
+  width: 20px;
+  height: 20px;
+}
+
+header .contactame .correo {
+  width: 20px;
+  height: 20px;
+}
+
+section h3 {
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+section li {
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
